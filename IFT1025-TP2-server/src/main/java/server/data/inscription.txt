@@ -1,0 +1,10 @@
+Automne	IFT2255	12345678	Michalis	Famelis	mfamelis@iro.umontreal.ca
+Automne	IFT1015	405	Brice	Zambou Nguemo	nguemobrice@gmail.com
+Ete	IFT2256	234456	Brice	Zambou	nguemobrice@gmail.com
+Hiver	IFT1025	234456	Brice	Zambou	nguemobrice@gmail.com
+Automne	IFT2255	123456	Brice	zambou	brice@umontreal.ca
+Automne	IFT2255	123456	Brice	Zambou	brice
+Automne	IFT2255	123456	Brice	Zambou	brice
+Automne	IFT2255	123456	Brice	Zambou	brice
+Hiver	IFT1025	123456	Mouna	Tort	mouna
+Automne	IFT1015	1234567	Brice	Zambou	Nguemo
